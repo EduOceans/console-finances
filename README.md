@@ -18,12 +18,12 @@ To run the website locally, follow these steps:
    ```
    mkdir module-4
    cd module-4
-   git clone git@github.com:EduOceans/module-4-console-finances.git
+   git clone git@github.com:EduOceans/console-finances.git
    ```
 
 ## Usage
 
-You can have a look at the website [here](https://eduoceans.github.io/module-4-console-finances/)
+You can have a look at the website [here](https://eduoceans.github.io/console-finances/)
 
 ## License
 
